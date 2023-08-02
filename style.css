@@ -142,6 +142,7 @@ body, h1, h2, h3, p, ul, li {
   .card p {
     font-size: 20px;
     text-align: center;
+    margin-top: 20px;
   }
   
   .btn {
